@@ -23,7 +23,6 @@ PC-Toolbox相对于[ABNToolbox](https://github.com/Kdufse/ABNToolbox)拥有更�
 - 6.集成busybox
 
 # 致谢名单
-[![](https://img.shields.io/badge/KernelPatch-purple?style=for-the-badge&logo=Github)](https://github.com/bmax121/KernelPatch)
-- [Magiskboot - Windows](https://github.com/CYRUS-STUDIO/MagiskBootWindows)
-- [Android Platform Tools](https://developer.android.google.cn/tools/releases/platform-tools)
+- [KernelPatch](https://github.com/bmax121/KernelPatch)的KPTools和KPImg
+- [Magiskboot - Windows](https://github.com/CYRUS-STUDIO/MagiskBootWindows)的Magiskboot
 
