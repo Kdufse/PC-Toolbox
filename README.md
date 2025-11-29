@@ -15,7 +15,7 @@ PC-Toolbox相对于[ABNToolbox](https://github.com/Kdufse/ABNToolbox)拥有更�
 - 6.支持重启至任意模式
 
 # 集成的工具
-- 1.集成最新版Android SDK Platform Tool
+- 1.集成最新版[Android SDK Platform Tool](https://developer.android.google.cn/tools/releases/platform-tools)
 - 2.集成KPTools-msys2与Magiskboot
 - 3.集成mke2fs工具
 - 4.集成make_f2fs工具
