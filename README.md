@@ -1,6 +1,6 @@
 # PC-Toolbox —— 不局限于安卓设备中
 PC-Toolbox相对于[ABNToolbox](https://github.com/Kdufse/ABNToolbox)拥有更高的拓展性以及实用性，并且支持的操作远比安卓设备的脚本要高很多很多。
-- ![](https://img.shields.io/badge/Platform-Android-green?logo=Android&style=for-the-badge)  
+
 # PC-Toolbox的运行要求：
 - 1.Windows10以上,推荐Windows11 23H2
 - 2.Windows终端版本需要4.6+
