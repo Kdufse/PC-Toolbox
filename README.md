@@ -22,6 +22,17 @@ PC-Toolbox相对于[ABNToolbox](https://github.com/Kdufse/ABNToolbox)拥有更�
 - 5.集成aria2+curl
 - 6.集成busybox
 
+# 执行脚本
+使用CMD打开：
+```CMD
+call .\PCToolbox.bat
+```
+
+使用Powershell打开：
+```Powershell
+& ".\PCToolbox.bat"
+```
+
 # 致谢名单
 - [KernelPatch](https://github.com/bmax121/KernelPatch)的KPTools和KPImg
 - [Magiskboot - Windows](https://github.com/CYRUS-STUDIO/MagiskBootWindows)的Magiskboot
