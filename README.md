@@ -1,14 +1,10 @@
-<a href="https://github.com/Kdufse/PC-Toolbox/blob/main/Image/Banner.png"><img src="https://github.com/Kdufse/PC-Toolbox/blob/main/Image/Banner.png"
-style="width: 512px;" alt="Screen"></a>
 # PC-Toolbox —— 不局限于安卓设备中
 PC-Toolbox相对于[ABNToolbox](https://github.com/Kdufse/ABNToolbox)拥有更高的拓展性以及实用性，并且支持的操作远比安卓设备的脚本要高很多很多。
-
+![](https://img.shields.io/badge/Platform-Android-green?logo=Android&style=for-the-badge)  
 # PC-Toolbox的运行要求：
 - 1.Windows10以上,推荐Windows11 23H2
 - 2.Windows终端版本需要4.6+
 - 3.连接的设备必须为Android系统，并且SDK版本必须≥30
-- 
-
 
 # 脚本特色
 - 1.隐藏Root环境
@@ -27,4 +23,7 @@ PC-Toolbox相对于[ABNToolbox](https://github.com/Kdufse/ABNToolbox)拥有更�
 - 6.集成busybox
 
 # 致谢名单
+- [KernelPatch](https://github.com/bmax121/KernelPatch)的
+- [Magiskboot - Windows](https://github.com/CYRUS-STUDIO/MagiskBootWindows)
+- [Android Platform Tools](https://developer.android.google.cn/tools/releases/platform-tools)
 
